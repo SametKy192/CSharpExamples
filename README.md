@@ -68,6 +68,6 @@ Proje içerisinde temel algoritmalardan, Windows Forms (WinForms) uygulamaların
 
 🧩 **Geliştiren:** Samet Ky  
 📧 **İletişim:** LinkedIn veya GitHub üzerinden ulaşabilirsiniz.  
-📅 **Son Güncelleme:** 2025
+📅 **Son Güncelleme:** 2026
 
 > *"Kod yazmak sadece komut dizileri oluşturmak değil, bir problem çözme sanatıdır."*
